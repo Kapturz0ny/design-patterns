@@ -1,0 +1,4 @@
+fabryka abstrakcyjna
+fabryka wirtualna
+fabryka prototypów
+fabryka skalowalna
